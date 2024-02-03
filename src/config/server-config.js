@@ -6,5 +6,5 @@ module.exports = {
   PORT: process.env.PORT,
   MAIL_PASS: process.env.MAIL_PASS,
   MAIL_ID: process.env.MAIL_ID,
-  
+  MESSAGE_QUEUE: process.env.MESSAGE_QUEUE,
 };
